@@ -17,7 +17,7 @@ Novamente, usei "cout" e "cin":
 </p>
 
 <p align="center">
-  <img src="img/exemplo_bissexto.png" alt="PNG" width="480px" />
+  <img src="img/exemplo_sim_bissexto.png" alt="PNG" width="480px" />
 </p>
 
 ### Observação
