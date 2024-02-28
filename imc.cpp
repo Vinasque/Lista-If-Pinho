@@ -11,6 +11,8 @@ int main() {
 
     float indice = massa / (altura * altura);
 
+    cout << "Voce tem o IMC: " << indice << ". " << flush;
+
     if (indice < 17) {
         cout << "Muito abaixo do peso!" << endl;
     } else if (17 <= indice < 18.5) {
